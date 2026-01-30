@@ -25,14 +25,15 @@
 
 
 // This code is a string variable
+    
 let fruitQuestion = "My favorite fruit is the pear, what about you?";
 
 // This code is an object variable
 const person = {
-  firstName: "John",
-  lastName: "Doe",
-  age: 50,
-  eyeColor: "blue"
+  firstName: "Mr.",
+  lastName: "Jones",
+  age: 52,
+  hairColor: "gray"
 };
 
 console.log(fruitQuestion)
