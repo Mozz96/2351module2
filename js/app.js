@@ -15,12 +15,10 @@
 
 // This code does a mathematical equation on two variables
 
-{
     const number1 = 9;
     const number2 = 10;
 
     let equation = number1 + number2;
-}
 
 
 
@@ -37,3 +35,7 @@ const person = {
 };
 
 console.log(fruitQuestion)
+
+console.log(person)
+
+console.log(equation)
